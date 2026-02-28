@@ -1,6 +1,6 @@
 # Bluetooth-Controlled Claw Mechanism (Arduino Nano ESP32)
 
-This project implements a wireless claw mechanism controlled over Bluetooth Low Energy (BLE) using an Arduino Nano ESP32. A smartphone sends hex commands through the LightBlue app, and the ESP32 interprets them to drive a high-torque LDX-335MG servo that opens and closes the claw mechanism in real time.
+This project implements a wireless claw mechanism controlled over Bluetooth Low Energy (BLE) present in smartphones and specifically the Arduino Nano ESP32. A smartphone sends hex commands through the LightBlue app, and the ESP32 interprets them to drive a high-torque LDX-335MG servo that opens and closes the claw mechanism in real time.
 
 The system demonstrates:
 - BLE communication using ESP32
